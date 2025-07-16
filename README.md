@@ -59,7 +59,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/sumitpanda12/brainware.git
+git clone https://github.com/SumitPanda12/brainware.git
 cd brainware
 ```
 
