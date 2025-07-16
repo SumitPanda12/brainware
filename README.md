@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
       <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
     </a>
   <br />
@@ -14,7 +13,7 @@
   <h3 align="center">Modern UI/UX website</h3>
 
    <div align="center">
-     Build this project <b>Brainware</b>.
+     Build this project <b>Brainwave</b>.
     </div>
 </div>
 
